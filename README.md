@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hello! 👋
 
+# I am a 2023 high school graduate who jumped headfirst into the world of web development due to a keen interest in technology as a kid through now. Growing up I always did love problem solving from puzzles to video games, so it's no wonder why I was so drawn to coding 😊.
+# I'm eager to find my way and learn as much as I can during my time in this field, there's so much to offer in the realm of the internet!
+# Technology interests me because of it's unpredictability. With new technology coming out every second, I find myself becoming more and more suprised that this tech that was shown to be far off in the future is now right at my fingertips. The world we live in is becoming more and more innovated, and I want to be apart of that.
+
+# Got inquiries? Reach out to me at abdullahia0215@gmail.com!
 <!--
 **abdullahia0215/abdullahia0215** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
